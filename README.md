@@ -1,8 +1,8 @@
 ## Hiii! I'm Matheus Barth.
 
 <div align="center">
-  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=math7b&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math7b&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="30%" src="https://github-readme-stats.vercel.app/api?username=math7b&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math7b&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
 <br>
@@ -18,8 +18,6 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-
-  <img align="right" height="150" src="https://github.com/math7b/math7b/blob/main/me.jpeg">
 </div>
  
  ##
