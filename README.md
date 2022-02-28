@@ -1,8 +1,8 @@
 ## Hiii! I'm Matheus Barth.
 
 <div align="center">
-  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=math7b&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math7b&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=math7b&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math7b&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
 <br>
