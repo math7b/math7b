@@ -38,5 +38,5 @@
   ##
 
   <a href="https://github.com/math7b/reactIgniteRepo">My React.js Ignite repo</a><br><br>
-  <a href="https://github.com/math7b/myFirstSite">My fist site in the life!</a>
+  <a href="https://github.com/math7b/myFirstSite">My first site in my life!</a>
 </div>
